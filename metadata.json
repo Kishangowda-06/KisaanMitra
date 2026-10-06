@@ -1,0 +1,7 @@
+{
+  "name": "Kisan Mitra AI",
+  "description": "Premium Agricultural AI Assistant & Direct Farm-to-Consumer Marketplace connecting farmers and consumers with intelligent crop health diagnostics and fresh produce trade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
